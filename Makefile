@@ -6,7 +6,7 @@
 IMAGE:=my-notebook
 
 PORT?=8888
-APP_NAME?=scala-assignment
+APP_NAME?=data_manipulation-pyspark
 WORK_VOLUME?=/app
 SPARK_IMAGE?=$(APP_NAME):latest
 
